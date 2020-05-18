@@ -7,3 +7,7 @@ An in-progress, shameless Minecraft clone created for practice/fun purposes.
 - GLEW
 - GLM
 - CMake
+
+## To build project and create binary
+- Stand in build-folder
+- Run "cmake .." and "make"
